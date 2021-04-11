@@ -80,7 +80,7 @@ export default {
 	.picklist {
 		overflow: scroll;
 		white-space: nowrap;
-		min-height: 128px;
+		min-height: 132px;
 		display: flex;
 		& > div { margin: 2px; }
 	}
