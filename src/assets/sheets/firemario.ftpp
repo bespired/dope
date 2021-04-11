@@ -1,0 +1,477 @@
+{
+  "meta": {
+    "version": "0.6.6"
+  },
+  "savePath": "/Users/joeri/Projects/games/mario-world/pixi/src/assets/sheet",
+  "images": [
+    {
+      "name": "fire0001.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0001.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0002.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0002.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0003.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0003.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0004.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0004.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0005.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0005.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0006.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0006.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0007.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0007.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0008.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0008.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0009.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0009.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0010.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0010.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0011.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0011.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0012.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0012.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0013.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0013.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0014.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0014.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0015.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0015.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0016.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0016.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0017.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0017.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0018.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0018.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0019.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0019.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0020.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0020.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0021.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0021.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0022.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0022.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0023.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0023.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0024.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0024.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0025.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0025.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0026.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0026.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0027.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0027.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0028.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0028.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0029.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0029.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0030.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0030.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0031.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0031.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0032.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0032.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0033.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0033.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0034.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0034.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0035.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0035.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0036.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0036.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0037.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0037.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0038.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0038.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0039.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0039.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0040.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0040.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0041.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0041.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0042.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0042.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0043.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0043.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0044.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0044.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0045.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0045.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0046.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0046.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0047.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0047.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0048.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0048.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0049.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0049.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0050.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0050.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0051.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0051.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0052.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0052.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0053.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0053.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0054.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0054.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0055.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0055.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0056.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0056.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0057.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0057.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0058.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0058.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0059.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0059.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0060.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0060.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0061.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0061.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0062.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0062.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0063.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0063.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0064.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0064.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0065.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0065.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0066.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0066.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0067.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0067.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0068.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0068.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0069.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0069.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0070.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0070.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0071.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0071.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0072.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0072.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0073.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0073.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0074.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0074.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0075.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0075.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0076.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0076.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0077.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0077.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0078.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0078.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0079.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0079.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0080.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0080.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0081.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0081.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0082.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0082.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0083.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0083.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0084.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0084.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0085.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0085.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0086.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0086.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0087.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0087.png",
+      "folder": ""
+    },
+    {
+      "name": "fire0088.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/mario/fire0088.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "firemario",
+    "textureFormat": "png",
+    "removeFileExtension": true,
+    "prependFolderName": false,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "disableSmoothing": true,
+    "filter": "none",
+    "exporter": "pixi.js",
+    "fileName": "pack-result",
+    "savePath": "/Users/joeri/Projects/games/mario-world/pixi/src/assets/sheet",
+    "width": 1536,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 2,
+    "extrude": 0,
+    "allowRotation": false,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": false,
+    "packer": "OptimalPacker",
+    "packerMethod": "Automatic"
+  }
+}

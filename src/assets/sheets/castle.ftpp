@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "version": "0.6.6"
+  },
+  "savePath": "/Users/joeri/Projects/games/mario-world/dope/src/assets/sheets",
+  "images": [
+    {
+      "name": "bricks.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/bricks.png",
+      "folder": ""
+    },
+    {
+      "name": "floor-sand.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/floor-sand.png",
+      "folder": ""
+    },
+    {
+      "name": "floor-shear.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/floor-shear.png",
+      "folder": ""
+    },
+    {
+      "name": "floor-stone.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/floor-stone.png",
+      "folder": ""
+    },
+    {
+      "name": "lava-ne-nw.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/lava-ne-nw.png",
+      "folder": ""
+    },
+    {
+      "name": "lava-ne.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/lava-ne.png",
+      "folder": ""
+    },
+    {
+      "name": "lava-nw.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/lava-nw.png",
+      "folder": ""
+    },
+    {
+      "name": "lava.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/lava.png",
+      "folder": ""
+    },
+    {
+      "name": "row3.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/row3.png",
+      "folder": ""
+    },
+    {
+      "name": "side-block.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/side-block.png",
+      "folder": ""
+    },
+    {
+      "name": "stairs-ne.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/stairs-ne.png",
+      "folder": ""
+    },
+    {
+      "name": "stairs-nw.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/stairs-nw.png",
+      "folder": ""
+    },
+    {
+      "name": "stairs-se.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/stairs-se.png",
+      "folder": ""
+    },
+    {
+      "name": "stairs-sw.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/stairs-sw.png",
+      "folder": ""
+    },
+    {
+      "name": "tower-floor.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/tower-floor.png",
+      "folder": ""
+    },
+    {
+      "name": "tower-point.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/tower-point.png",
+      "folder": ""
+    },
+    {
+      "name": "tower-round.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/tower-round.png",
+      "folder": ""
+    },
+    {
+      "name": "tower-top.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/tower-top.png",
+      "folder": ""
+    },
+    {
+      "name": "tower-tube.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/tower-tube.png",
+      "folder": ""
+    },
+    {
+      "name": "tube-brick.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/tube-brick.png",
+      "folder": ""
+    },
+    {
+      "name": "tube-se.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/tube-se.png",
+      "folder": ""
+    },
+    {
+      "name": "tube-sw.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/tube-sw.png",
+      "folder": ""
+    },
+    {
+      "name": "tube.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/tube.png",
+      "folder": ""
+    },
+    {
+      "name": "wall-corner-e.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/wall-corner-e.png",
+      "folder": ""
+    },
+    {
+      "name": "wall-corner-n.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/wall-corner-n.png",
+      "folder": ""
+    },
+    {
+      "name": "wall-corner-s.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/wall-corner-s.png",
+      "folder": ""
+    },
+    {
+      "name": "wall-corner-w.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/wall-corner-w.png",
+      "folder": ""
+    },
+    {
+      "name": "wall-ne.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/wall-ne.png",
+      "folder": ""
+    },
+    {
+      "name": "wall-nw.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/wall-nw.png",
+      "folder": ""
+    },
+    {
+      "name": "wall-se.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/wall-se.png",
+      "folder": ""
+    },
+    {
+      "name": "wall-sw.png",
+      "path": "/Users/joeri/Projects/games/mario-world/renders/half/castle/wall-sw.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "castle",
+    "textureFormat": "png",
+    "removeFileExtension": true,
+    "prependFolderName": false,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "disableSmoothing": true,
+    "filter": "none",
+    "exporter": "pixi.js",
+    "fileName": "pack-result",
+    "savePath": "/Users/joeri/Projects/games/mario-world/dope/src/assets/sheets",
+    "width": 1536,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 2,
+    "extrude": 0,
+    "allowRotation": false,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": false,
+    "packer": "OptimalPacker",
+    "packerMethod": "Automatic"
+  }
+}

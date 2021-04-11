@@ -1,0 +1,50 @@
+#!/usr/bin/php
+<?php
+
+class Sheets {
+
+    public $asset_path;
+	public $public_path;
+
+	function __construct() {
+	    $this->asset_path  = realpath(__DIR__ . '/../assets');
+		$this->public_path = realpath(__DIR__ . '/../../public');
+	}
+
+	function copyAssets(){
+		$asset_sheets_pattern = $this->asset_path . '/sheets/*[.json][.png]';
+		$files = glob($asset_sheets_pattern);
+
+		foreach ($files as $file) {
+			$info = pathinfo($file);
+			copy ( $file, sprintf('%s/atlasmaps/%s', $this->public_path, $info['basename']) );
+		}
+
+		return $this;
+	}
+
+	function createManifest(){
+		$asset_sheets_pattern = $this->asset_path . '/sheets/*[.json][.png]';
+		$files = glob($asset_sheets_pattern);
+
+		$folder = [ "dir" => [], 'png' => [] ];
+
+		foreach ($files as $file) {
+			$info = pathinfo($file);
+			$folder['dir'][$info['basename']] = $file;
+			if ( $info['extension'] === 'png' ){
+				$folder['png'][$info['basename']] = $file;
+			}
+
+		}
+
+		$json = json_encode($folder , true);
+		file_put_contents($this->asset_path . '/sheets.json', $json);
+
+		return $this;
+	}
+
+}
+
+
+(new Sheets())->copyAssets()->createManifest();
